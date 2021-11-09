@@ -1,0 +1,36 @@
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 4em;
+    background: rgb(35,9,138);
+    background: linear-gradient(270deg, rgba(35,9,138,1) 0%, rgba(45,132,223,1) 100%);
+        background-repeat: no-repeat;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 14px;
+}
+
+#searchBtn {
+    width: 20.125em;
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+    height: 2.5em;
+    background-color: #2594d9;
+}
+
+
+#userSearch {
+    width: 10.75em;
+    height: 2em;
+    font-size: 30px;;
+    border-radius: 10px 10px;
+}
+
+
+
